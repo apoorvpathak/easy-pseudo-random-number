@@ -1,0 +1,27 @@
+{
+  "name": "ranum",
+  "version": "1.0.0",
+  "description": "easy pseudo random number or boolean generator ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoorvpathak/ranum-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "easy",
+    "random",
+    "number",
+    "generator",
+    "random",
+    "number", 
+    "boolean",
+    "random boolean generator"
+  ],
+  "author": "apoorv pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoorvpathak/ranum-npm/issues"
+  },
+  "homepage": "https://github.com/apoorvpathak/ranum-npm#readme"
+}
